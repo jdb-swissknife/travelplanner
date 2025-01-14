@@ -1,6 +1,11 @@
-#
+# LLamaIndex Tour Planner
 
-In this tutorial,
+In this tutorial, we'll create a tour planner using LlamaIndex Workflow.
+
+Stack Used:
+
+- LlamaIndex workflow for orchestration.
+- SerpAPI for finding hotels, flights and places to visit
 
 Full tutorial 👇
 
@@ -20,7 +25,7 @@ Full tutorial 👇
 pip install -r requirements.txt
 ```
 
-- Create `.env` file and add `OPENAI_API_KEY` and `TAVILY_API_KEY`
+- Create `.env` file and add `OPENAI_API_KEY` and `SERPAPI_KEY`
 
 ```bash
 cp .env.example .env
@@ -29,5 +34,5 @@ cp .env.example .env
 - Run the workflow with the topic to research
 
 ```bash
-python run.py ""
+python run.py "plan a trip to bali from paris next month"
 ```
