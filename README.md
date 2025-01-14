@@ -9,7 +9,7 @@ Stack Used:
 
 Full tutorial 👇
 
-[![]()]()
+[![LlamaIndex Tour Planner](https://img.youtube.com/vi/DJOJ4WD1XgY/maxresdefault.jpg)](https://www.youtube.com/watch?v=DJOJ4WD1XgY)
 
 ## How to use
 
