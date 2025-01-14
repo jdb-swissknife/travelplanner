@@ -16,7 +16,8 @@ Full tutorial 👇
 - Clone the repo
 
 ```bash
-
+git clone https://github.com/rsrohan99/llamaindex-trip-planner.git
+cd llamaindex-trip-planner
 ```
 
 - Install dependencies
